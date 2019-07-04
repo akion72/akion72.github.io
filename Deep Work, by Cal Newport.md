@@ -1,10 +1,8 @@
-Deep Work, by Cal Newport
-
-# Table of Contents
+# Newport, Cal. *Deep Work* (2016)
 
 - Introduction
 - Part 1 - The Idea
-    - 1. Deep Work is Valuable
+    - Deep Work is Valuable
         - The High Skilled Workers
         - The Superstars
         - The Owners
@@ -12,19 +10,19 @@ Deep Work, by Cal Newport
         - Deep Work Helps you Quickly Learn Hard Things
         - Deep Work Helps You Produce at an Elite Level
         - What About Jack Dorsey?
-    - 2. Deep Work is Rare
+    - Deep Work is Rare
         - The Metric Black Hole
         - The Principle of Least Resistance
         - Busyness as a Proxy for Productivity
         - The Cult of the Internet
         - Bad for Business. Good for You.
-    - 3. Deep Work is Meaningful
+    - Deep Work is Meaningful
         - A Neurological Argument for Depth
         - A Psychological Argument for Depth
         - A Philosophical Argument for Depth
         - Homo Sapiens Deepensis
 - Part 2 - The Rules
-    - 1. Work Deeply
+    - Work Deeply
         - Decide on your Depth Philosophy
             - The Monastic Philosophy of Deep Work Scheduling
             - The Bimodal Philosophy of Deep Work Scheduling
@@ -34,29 +32,29 @@ Deep Work, by Cal Newport
         - Make Grand Gestures
         - Don't Work Alone
         - Execute Like a Business
-            - 1. Focus on the wildly important
-            - 2. Act on the lead measures
-            - 3. Keep a compelling scoreboard
-            - 4. Create a cadence of accountability
+             1. Focus on the wildly important
+             2. Act on the lead measures
+             3. Keep a compelling scoreboard
+             4. Create a cadence of accountability
         - Be Lazy
-            - 1. Downtime Aids Insights
-            - 2. Downtime Helps Recharge the Energy Needed to Work Deeply
-            - 3. The Work That Evening Downtime Replaces is Usually Not That Important
-    - 2. Embrace Boredom
+             1. Downtime Aids Insights
+             2. Downtime Helps Recharge the Energy Needed to Work Deeply
+             3. The Work That Evening Downtime Replaces is Usually Not That Important
+    - Embrace Boredom
         - Don't Take Breaks from Distraction. Instead Take Breaks from Focus.
-            - 1. This strategy works even if your job requires lots of Internet use and/or prompt e-mail replies.
-            - 2. Regardless of how you schedule your Internet blocks, you must keep the time outside these blocks absolutely free from Internet use.
-            - 3. Scheduling Internet use at home as well as at work can further improve your concentration training.
+             1. This strategy works even if your job requires lots of Internet use and/or prompt e-mail replies.
+             2. Regardless of how you schedule your Internet blocks, you must keep the time outside these blocks absolutely free from Internet use.
+             3. Scheduling Internet use at home as well as at work can further improve your concentration training.
         - Work Like Teddy Roosevelt
         - Meditate Productively
             - Be Wary of Distractions and Looping
             - Structure your Deep Thinking
         - Memorize a Deck of Cards
-    - 3. Quit Social Media
+    - Quit Social Media
         - Apply the Law of the Vital Few to Your Internet Habits
         - Quit Social Media
         - Don't Use the Internet to Entertain Yourself
-    - 4. Drain the Shallows
+    - Drain the Shallows
         - Schedule Every Minute of Your Day
         - Quantify the Depth of Every Activity
         - Ask Your Boss for a Shallow Work Budget
