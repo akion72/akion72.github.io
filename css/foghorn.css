@@ -125,10 +125,8 @@ p#heart{
 body#index li {
 	margin-bottom: 1em;
 	}
-img.f {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+img {
+  display: inline;
 }
 
 /* iPad
