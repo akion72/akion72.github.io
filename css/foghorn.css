@@ -10,7 +10,6 @@ nav ul, footer ul {
     font-family:"Vollkorn", Palatino, Times;
     padding: 0px;
     list-style: none;
-    font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -41,9 +40,7 @@ video {
 
 nav {
 	font-size: .9em;
-	font-style: bold;
 	border-bottom: 1px solid #ddd;
-	padding: 1em 0;
 	}
 nav p {
 	margin: 0;
@@ -88,7 +85,7 @@ code {
 	background: white;
 	}
 a {
-	color: #ddd;
+	color: #333;
 	text-decoration: none;
 	}
 a:hover {
