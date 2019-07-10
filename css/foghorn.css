@@ -126,8 +126,12 @@ body#index li {
 	margin-bottom: 1em;
 	}
 img {
-  display: inline;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+
 
 /* iPad
 -------------------------------------------------------- */
