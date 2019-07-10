@@ -6,6 +6,16 @@ html, body {
         max-width:42em;
         background:#fefefe;
 	}
+nav ul, footer ul {
+    font-family:"Vollkorn", Palatino, Times;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
 body {
 	font: 1.3em "Vollkorn", Palatino, Times;
 	color: #333;
