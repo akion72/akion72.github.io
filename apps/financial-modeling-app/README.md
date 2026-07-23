@@ -59,10 +59,31 @@ easy to revisit as the model grows:
 
 ```bash
 npm install
-npm run dev      # start the dev server
+npm run dev      # start the dev server, served at /financial-modeling-app/
 npm run test     # run the vitest suite for the tax engine
 npm run build    # typecheck + production build
 ```
+
+## Publishing
+
+This source lives at `apps/financial-modeling-app/` (excluded from the Jekyll build
+via `_config.yml`'s `exclude:`), and the site is deployed the classic Jekyll way
+(no build step runs on GitHub's side), so the **compiled** output has to be
+committed to the repo separately, at the top-level `financial-modeling-app/`
+directory, which Jekyll copies through untouched as static files:
+
+```bash
+cd apps/financial-modeling-app
+npm run build
+rm -rf ../../financial-modeling-app
+mkdir -p ../../financial-modeling-app
+cp -r dist/. ../../financial-modeling-app/
+```
+
+`vite.config.ts` sets `base: '/financial-modeling-app/'` so the built asset URLs
+resolve correctly once the domain root serves the site. After committing both the
+source changes and the refreshed `financial-modeling-app/` output, the app is live
+at `https://akion72.github.io/financial-modeling-app/` once merged to `master`.
 
 ## Architecture
 
